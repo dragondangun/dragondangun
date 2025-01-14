@@ -8,7 +8,7 @@ First languages: Russian, Ukrainian
 Second languages: English, Epsilon-Delta
 
 Undergraduate: (pure) Mathematics, 2021  
-Magistracy / master's programm: Applied math: Mathematical modeling, programming and AI (2023)
+Magistracy / master's programm: Applied math: Mathematical modeling, programming and AI (2023)  
 Postgraduate: Computer science (current)
 
 Programming since: 2012, but get really involved in 2016.
